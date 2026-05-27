@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfecrypt",
+        "uuid": 11765600,
+        "checksum": "z4f5ll"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
